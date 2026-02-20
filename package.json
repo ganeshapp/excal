@@ -1,5 +1,5 @@
 {
-  "name": "excalidraw-multi-tabs",
+  "name": "excal",
   "version": "0.0.0",
   "description": "Self-hostable Excalidraw with multi-tabs",
   "type": "module",
@@ -7,7 +7,7 @@
     "excalidraw",
     "drawing"
   ],
-  "author": "MontejoJorge",
+  "author": "Gapp",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
